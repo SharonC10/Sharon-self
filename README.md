@@ -50,6 +50,12 @@
   <img width="12" />
   <code><img src="https://skillicons.dev/icons?i=aws&theme=dark&perline=15" height="30" alt="aws logo"  /></code>
   <img width="12" />
+  <code><img src="https://skillicons.dev/icons?i=vscode&theme=dark&perline=15" height="30" alt="aws logo"  /></code>
+  <img width="12" />
+  <code><img src="https://skillicons.dev/icons?i=postman&theme=dark&perline=15" height="30" alt="aws logo"  /></code>
+  <img width="12" />
+
+
 
 
 </div>
